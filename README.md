@@ -1,8 +1,7 @@
-# ArTrade
 
-
-
-![image](https://user-images.githubusercontent.com/81146596/148514289-4f178e3f-ed7b-44e0-8afd-99fbb9f4917c.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81146596/148791744-5f9cb330-9643-4409-89a1-38d27ae8012f.jpg" alt="아트레이드 로고" width="number" />
+</p>
 
 
 
